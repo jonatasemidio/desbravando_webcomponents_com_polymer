@@ -1,2 +1,2 @@
-# desbravando_webcomponents_com_polymer
+# Desbravando WebComponents com Polymer
 Apresentação sobre Polymer montada para o FEMUG
